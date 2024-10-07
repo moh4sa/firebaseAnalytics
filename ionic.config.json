@@ -1,0 +1,7 @@
+{
+  "name": "firbaseAnalytics",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
